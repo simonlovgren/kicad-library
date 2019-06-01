@@ -1,0 +1,10 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PT4115
+D PowTech 30V, 1.2A Step-down High Brightness LED Driver with 5000:1 Dimming
+K
+F https://people.xiph.org/~xiphmont/thinkpad/PT4115E.pdf
+$ENDCMP
+#
+#End Doc Library
+#

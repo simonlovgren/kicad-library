@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MX25L12805D
+D Macronix 128M-BIT [x 1] CMOS serial flash, 50MHz, 256B Page, 4K sector or 64K block erase
+K flash
+F http://www.macronix.com/Lists/Datasheet/Attachments/7321/MX25L12805D,%203V,%20128Mb,%20v1.2.pdf
+$ENDCMP
+#
+#End Doc Library
